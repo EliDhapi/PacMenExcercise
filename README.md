@@ -13,13 +13,13 @@ How to Run
 
 1.	Download the following files from the masterbranch of this repository into a directory on your local machine:
 
-•	images/pacman1
+•	Pacman1
 
-•	images/pacman2
+•	Pacman2
 
-•	images/pacman3
+•	Pacman3
 
-•	images/pacman4
+•	Pacman4
 
 •	Index.html
 

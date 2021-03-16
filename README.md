@@ -26,10 +26,11 @@ How to Run
 •	pacmen.js
 
 2.	Open index.html in your browser.
-3.	
+
 Roadmap of future improvements
 
 •	Make the PacMen move across the page in "10px" increments by using the timer 'setInterval(Run,300) 
+
 
 License information
 

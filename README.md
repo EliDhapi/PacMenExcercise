@@ -11,7 +11,7 @@ When button "make one" is pressed you need to complete the code to position the 
 
 How to Run
 
-1.	Download the following 3 files from the masterbranch of this repository into a directory on your local machine:
+1.	Download the following files from the masterbranch of this repository into a directory on your local machine:
 
 •	images/pacman1
 

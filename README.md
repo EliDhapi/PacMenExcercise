@@ -2,7 +2,7 @@
 PacMen Excercise
 
 <h2>Project Description</h2>
-This project uses javascript, CSS, HTML and it is a factory for making pacmen. When button "make one" is pressed you need to complete the code to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman. You also need to make each pacman bounce off any wall it hits. Start by getting at least one pacman positioned and viewable.
+This project uses javascript, CSS, HTML and it is a factory for making pacmen. This browser-based doodad lets users add PacMen to the screen and then make the pacmen bounce all around the screen
 
 <h2>How to Run</h2>
 (1) Download the following files from this repository into a directory on your local machine: 
